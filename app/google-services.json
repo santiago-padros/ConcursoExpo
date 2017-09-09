@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "470722382497",
+    "firebase_url": "https://concursoexpotecnica.firebaseio.com",
+    "project_id": "concursoexpotecnica",
+    "storage_bucket": "concursoexpotecnica.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470722382497:android:c5b3570aef438c9f",
+        "android_client_info": {
+          "package_name": "com.app.expotecnica.concurso.padros.santiago.concursoexpo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470722382497-gcoecnuqampdtvrmoehpnj5io7l606hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.expotecnica.concurso.padros.santiago.concursoexpo",
+            "certificate_hash": "384bbf10bf12c04bcb9e9cdecb9d050ebfc67633"
+          }
+        },
+        {
+          "client_id": "470722382497-teu4k2n48oav8rcibfsd7niacvt9c4qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjp3gn4jJnHVdIGZ7JooCufi1qPhN-RB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470722382497-teu4k2n48oav8rcibfsd7niacvt9c4qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\fliap\.android\build-cache\a2acac3be4030ee0f1a892c5400be84a0ab75757\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="159494eb362396d073d8c922b77e40c0da5fc5bc">
+        <dex dex="C:\Users\fliap\Desktop\Santiago\Concursoexpo\app\build\intermediates\pre-dexed\debug\classes_6e558227d0f597b3add053056fa30d3c247a498a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fliap\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.4.0\f00bc767918ad9c89e5c13e25706d033a58e13c2\firebase-client-android-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="C:\Users\fliap\Desktop\Santiago\Concursoexpo\app\build\intermediates\pre-dexed\release\firebase-client-android-2.4.0_fea4320396ef6b6c922c07b213ad5424061e7a81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fliap\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.4.0\558e074f136fee609b8758480ecd00e286595137\firebase-client-jvm-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="C:\Users\fliap\Desktop\Santiago\Concursoexpo\app\build\intermediates\pre-dexed\release\firebase-client-jvm-2.4.0_6e122262b2fe6f76d0a862e8646d883752600bbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fliap\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\fliap\Desktop\Santiago\Concursoexpo\app\build\intermediates\pre-dexed\release\jackson-core-2.2.2_0cc764a9279b7366d49177a68ca651fd9b7c0f05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fliap\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\fliap\Desktop\Santiago\Concursoexpo\app\build\intermediates\pre-dexed\release\tubesock-0.0.12_5511f8de4af61ecb65d11b9c76538167c9a5a711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fliap\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\fliap\Desktop\Santiago\Concursoexpo\app\build\intermediates\pre-dexed\release\jackson-annotations-2.2.2_4cea21c524ccefb04779952b45d45fb84a9b50ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fliap\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\fliap\Desktop\Santiago\Concursoexpo\app\build\intermediates\pre-dexed\release\jackson-databind-2.2.2_b423e77a2a7de314632ac0fe19d5c49993de05f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\fliap\.android\build-cache\7d9f6669ead2c06a50cc8bbadf23b7987780219f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8c6ef5bd4072f8cda2b89d8356ea7d8acd0683aa">
+        <dex dex="C:\Users\fliap\Desktop\Santiago\Concursoexpo\app\build\intermediates\pre-dexed\debug\classes_21ae12ec106fefccad7f3a6116e154ed3f6dc0d2.jar" />
+    </item>
+
+</items>
